@@ -1,0 +1,28 @@
+{
+  "name": "keepgoing.dev",
+  "version": "1.0.0",
+  "description": "a website for web developers finding themselves less enthusiastic about their career. A series of Guieds, tips and a podcast focussed on reviving a developers thirst for the job.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DHX-Projects-Limited-2022/keepgoing.dev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DHX-Projects-Limited-2022/keepgoing.dev/issues"
+  },
+  "homepage": "https://github.com/DHX-Projects-Limited-2022/keepgoing.dev#readme",
+  "dependencies": {
+    "next": "^13.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
